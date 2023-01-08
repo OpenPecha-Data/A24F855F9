@@ -1,0 +1,19 @@
+id: A24F855F9
+title: Prayer to Khenpo Ngawang Palzang
+type: translation
+pechas:
+- I84527822
+- I423C1CE8
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:51:51.271752
+  last_modified_at: 2023-01-04 12:51:51.271774
+  collections:
+  - Khenchen Ngawang Palzang Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I84527822/80FC: A54B
+  I423C1CE8/7C4C: A54B
